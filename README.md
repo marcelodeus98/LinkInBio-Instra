@@ -4,16 +4,16 @@
 
 ### Como Usar 
 
-  1.Faça o download dos arquivos HTML e CSS deste repositório.
-  2.Edite o arquivo index.html com os seus links e informações.
-  3.Personalize o estilo conforme desejado, editando o arquivo styles.css.
+  1.Faça o download dos arquivos HTML e CSS deste repositório.</br>
+  2.Edite o arquivo index.html com os seus links e informações.</br>
+  3.Personalize o estilo conforme desejado, editando o arquivo styles.css.</br>
   4.Salve as alterações.
-  5.Carregue os arquivos para o seu servidor web ou utilize uma plataforma de hospedagem gratuita.
+  5.Carregue os arquivos para o seu servidor web ou utilize uma plataforma de hospedagem gratuita.</br>
 
 ### Estrutura do Projeto
 
-  index.html: Este arquivo contém a estrutura HTML do Linktree. Você pode adicionar, remover ou editar os links conforme necessário.
-  style.css: O arquivo CSS que estiliza o Linktree. Você pode personalizar as cores, fontes e layout aqui.
+  index.html: Este arquivo contém a estrutura HTML do Linktree. Você pode adicionar, remover ou editar os links conforme necessário.</br>
+  style.css: O arquivo CSS que estiliza o Linktree. Você pode personalizar as cores, fontes e layout aqui.</br>
 
 ## Personalização
 
